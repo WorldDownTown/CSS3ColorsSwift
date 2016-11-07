@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name             = 'CSS3ColorsSwift'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'A UIColor extension for Web Color.'
   s.description      = <<-DESC
                        CSS3ColorsSwift provides a UIColor extension with Web Color names.
                        DESC
   s.homepage         = 'https://github.com/WorldDownTown/CSS3ColorsSwift'
-  s.screenshots      = 'images/screenshot.png'
+  s.screenshots      = 'https://github.com/WorldDownTown/CSS3ColorsSwift/raw/master/images/screenshot.png'
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.author           = { 'WorldDownTown' => 'WorldDownTown@gmail.com' }
   s.social_media_url = 'https://twitter.com/WorldDownTown'
