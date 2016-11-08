@@ -10,7 +10,6 @@ import UIKit
 
 public extension UIColor {
 
-//    class var white:                UIColor { return #colorLiteral(red: 1.0000000000, green: 1.0000000000, blue: 1.0000000000, alpha: 1) }  // FFFFFF
     class var whiteSmoke:           UIColor { return #colorLiteral(red: 0.9607843137, green: 0.9607843137, blue: 0.9607843137, alpha: 1) }  // F5F5F5
     class var ghostWhite:           UIColor { return #colorLiteral(red: 0.9725490196, green: 0.9725490196, blue: 1.0000000000, alpha: 1) }  // F8F8FF
     class var aliceBlue:            UIColor { return #colorLiteral(red: 0.9411764706, green: 0.9725490196, blue: 1.0000000000, alpha: 1) }  // F0F8FF
@@ -66,11 +65,9 @@ public extension UIColor {
     class var steelBlue:            UIColor { return #colorLiteral(red: 0.2745098039, green: 0.5098039216, blue: 0.7058823529, alpha: 1) }  // 4682B4
     class var mediumSlateBlue:      UIColor { return #colorLiteral(red: 0.4823529412, green: 0.4078431373, blue: 0.9333333333, alpha: 1) }  // 7B68EE
     class var royalBlue:            UIColor { return #colorLiteral(red: 0.2549019608, green: 0.4117647059, blue: 0.8823529412, alpha: 1) }  // 4169E1
-//    class var blue:                 UIColor { return #colorLiteral(red: 0.0000000000, green: 0.0000000000, blue: 1.0000000000, alpha: 1) }  // 0000FF
     class var dodgerBlue:           UIColor { return #colorLiteral(red: 0.1176470588, green: 0.5647058824, blue: 1.0000000000, alpha: 1) }  // 1E90FF
     class var cornflowerBlue:       UIColor { return #colorLiteral(red: 0.3921568627, green: 0.5843137255, blue: 0.9294117647, alpha: 1) }  // 6495ED
     class var deepSkyBlue:          UIColor { return #colorLiteral(red: 0.0000000000, green: 0.7490196078, blue: 1.0000000000, alpha: 1) }  // 00BFFF
-//    class var cyan:                 UIColor { return #colorLiteral(red: 0.0000000000, green: 1.0000000000, blue: 1.0000000000, alpha: 1) }  // 00FFFF
     class var aqua:                 UIColor { return #colorLiteral(red: 0.0000000000, green: 1.0000000000, blue: 1.0000000000, alpha: 1) }  // 00FFFF
     class var turquoise:            UIColor { return #colorLiteral(red: 0.2509803922, green: 0.8784313725, blue: 0.8156862745, alpha: 1) }  // 40E0D0
     class var mediumTurquoise:      UIColor { return #colorLiteral(red: 0.2823529412, green: 0.8196078431, blue: 0.8000000000, alpha: 1) }  // 48D1CC
@@ -84,7 +81,6 @@ public extension UIColor {
     class var lawnGreen:            UIColor { return #colorLiteral(red: 0.4862745098, green: 0.9882352941, blue: 0.0000000000, alpha: 1) }  // 7CFC00
     class var chartreuse:           UIColor { return #colorLiteral(red: 0.4980392157, green: 1.0000000000, blue: 0.0000000000, alpha: 1) }  // 7FFF00
     class var greenYellow:          UIColor { return #colorLiteral(red: 0.6784313725, green: 1.0000000000, blue: 0.1843137255, alpha: 1) }  // ADFF2F
-//    class var yellow:               UIColor { return #colorLiteral(red: 1.0000000000, green: 1.0000000000, blue: 0.0000000000, alpha: 1) }  // FFFF00
     class var gold:                 UIColor { return #colorLiteral(red: 1.0000000000, green: 0.8431372549, blue: 0.0000000000, alpha: 1) }  // FFD700
     class var orangeCSS3:           UIColor { return #colorLiteral(red: 1.0000000000, green: 0.6470588235, blue: 0.0000000000, alpha: 1) }  // FFA500
     class var darkOrange:           UIColor { return #colorLiteral(red: 1.0000000000, green: 0.5490196078, blue: 0.0000000000, alpha: 1) }  // FF8C00
@@ -99,20 +95,17 @@ public extension UIColor {
     class var coral:                UIColor { return #colorLiteral(red: 1.0000000000, green: 0.4980392157, blue: 0.3137254902, alpha: 1) }  // FF7F50
     class var tomato:               UIColor { return #colorLiteral(red: 1.0000000000, green: 0.3882352941, blue: 0.2784313725, alpha: 1) }  // FF6347
     class var orangeRed:            UIColor { return #colorLiteral(red: 1.0000000000, green: 0.2705882353, blue: 0.0000000000, alpha: 1) }  // FF4500
-//    class var red:                  UIColor { return #colorLiteral(red: 1.0000000000, green: 0.0000000000, blue: 0.0000000000, alpha: 1) }  // FF0000
     class var deepPink:             UIColor { return #colorLiteral(red: 1.0000000000, green: 0.0784313725, blue: 0.5764705882, alpha: 1) }  // FF1493
     class var hotPink:              UIColor { return #colorLiteral(red: 1.0000000000, green: 0.4117647059, blue: 0.7058823529, alpha: 1) }  // FF69B4
     class var paleVioletRed:        UIColor { return #colorLiteral(red: 0.8470588235, green: 0.4392156863, blue: 0.5764705882, alpha: 1) }  // D87093
     class var violet:               UIColor { return #colorLiteral(red: 0.9333333333, green: 0.5098039216, blue: 0.9333333333, alpha: 1) }  // EE82EE
     class var orchid:               UIColor { return #colorLiteral(red: 0.8549019608, green: 0.4392156863, blue: 0.8392156863, alpha: 1) }  // DA70D6
-//    class var magenta:              UIColor { return #colorLiteral(red: 1.0000000000, green: 0.0000000000, blue: 1.0000000000, alpha: 1) }  // FF00FF
     class var fuchsia:              UIColor { return #colorLiteral(red: 1.0000000000, green: 0.0000000000, blue: 1.0000000000, alpha: 1) }  // FF00FF
     class var mediumOrchid:         UIColor { return #colorLiteral(red: 0.7294117647, green: 0.3333333333, blue: 0.8274509804, alpha: 1) }  // BA55D3
     class var darkOrchid:           UIColor { return #colorLiteral(red: 0.6000000000, green: 0.1960784314, blue: 0.8000000000, alpha: 1) }  // 9932CC
     class var darkViolet:           UIColor { return #colorLiteral(red: 0.5803921569, green: 0.0000000000, blue: 0.8274509804, alpha: 1) }  // 9400D3
     class var blueViolet:           UIColor { return #colorLiteral(red: 0.5411764706, green: 0.1686274510, blue: 0.8862745098, alpha: 1) }  // 8A2BE2
     class var mediumPurple:         UIColor { return #colorLiteral(red: 0.5764705882, green: 0.4392156863, blue: 0.8470588235, alpha: 1) }  // 9370D8
-//    class var gray:                 UIColor { return #colorLiteral(red: 0.5019607843, green: 0.5019607843, blue: 0.5019607843, alpha: 1) }  // 808080
     class var mediumBlue:           UIColor { return #colorLiteral(red: 0.0000000000, green: 0.0000000000, blue: 0.8039215686, alpha: 1) }  // 0000CD
     class var darkCyan:             UIColor { return #colorLiteral(red: 0.0000000000, green: 0.5450980392, blue: 0.5450980392, alpha: 1) }  // 008B8B
     class var cadetBlue:            UIColor { return #colorLiteral(red: 0.3725490196, green: 0.6196078431, blue: 0.6274509804, alpha: 1) }  // 5F9EA0
@@ -128,7 +121,6 @@ public extension UIColor {
     class var rosyBrown:            UIColor { return #colorLiteral(red: 0.7372549020, green: 0.5607843137, blue: 0.5607843137, alpha: 1) }  // BC8F8F
     class var mediumVioletRed:      UIColor { return #colorLiteral(red: 0.7803921569, green: 0.0823529412, blue: 0.5215686275, alpha: 1) }  // C71585
     class var dimGray:              UIColor { return #colorLiteral(red: 0.4117647059, green: 0.4117647059, blue: 0.4117647059, alpha: 1) }  // 696969
-//    class var black:                UIColor { return #colorLiteral(red: 0.0000000000, green: 0.0000000000, blue: 0.0000000000, alpha: 1) }  // 000000
     class var midnightBlue:         UIColor { return #colorLiteral(red: 0.0980392157, green: 0.0980392157, blue: 0.4392156863, alpha: 1) }  // 191970
     class var darkSlateBlue:        UIColor { return #colorLiteral(red: 0.2823529412, green: 0.2392156863, blue: 0.5450980392, alpha: 1) }  // 483D8B
     class var darkBlue:             UIColor { return #colorLiteral(red: 0.0000000000, green: 0.0000000000, blue: 0.5450980392, alpha: 1) }  // 00008B
@@ -148,6 +140,5 @@ public extension UIColor {
     class var maroon:               UIColor { return #colorLiteral(red: 0.5019607843, green: 0.0000000000, blue: 0.0000000000, alpha: 1) }  // 800000
     class var darkRed:              UIColor { return #colorLiteral(red: 0.5450980392, green: 0.0000000000, blue: 0.0000000000, alpha: 1) }  // 8B0000
     class var darkMagenta:          UIColor { return #colorLiteral(red: 0.5450980392, green: 0.0000000000, blue: 0.5450980392, alpha: 1) }  // 8B008B
-//    class var purple:               UIColor { return #colorLiteral(red: 0.5019607843, green: 0.0000000000, blue: 0.5019607843, alpha: 1) }  // 800080
     class var indigo:               UIColor { return #colorLiteral(red: 0.2941176471, green: 0.0000000000, blue: 0.5098039216, alpha: 1) }  // 4B0082
 }
