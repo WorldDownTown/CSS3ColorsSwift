@@ -8,6 +8,7 @@
 ## Overview
 `CSS3ColorsSwift` provides a UIColor extension with Web Color names.
 
+![uicolor_extension](images/uicolor_extension.png)
 ![screenshot](images/screenshot.png)
 
 ## Demo
@@ -24,6 +25,8 @@ let color2: UIColor = .mediumSlateBlue
 
 view.backgroundColor = .lightCoral
 ```
+
+You can see also all colors in Demo project.
 
 |Property|Color|
 |:--|:--|
@@ -164,7 +167,6 @@ view.backgroundColor = .lightCoral
 - iOS 9.0 or later
 
 ## Installation
-
 ### Carthage
 CSS3ColorsSwift is available through [Carthage](https://github.com/Carthage/Carthage). To install it, simply add the following line to your Cartfile:
 
@@ -182,6 +184,24 @@ pod 'CSS3ColorsSwift'
 ### Manually
 1. Download and drop `/CSS3ColorsSwift` folder in your project.
 2. Congratulations!
+
+
+## Xcode Snippets
+
+You can install code snippets of Color Literal for Xcode 8.
+
+![codesnippet1](images/codesnippet1.png)
+![codesnippet2](images/codesnippet2.png)
+
+### Installation
+
+```shd
+# bash, zsh
+$ git clone https://github.com/WorldDownTown/CSS3ColorsSwift.git && cp CSS3ColorsSwift/XcodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/
+
+# fish
+$ git clone https://github.com/WorldDownTown/CSS3ColorsSwift.git; and cp CSS3ColorsSwift/XcodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/
+```
 
 ## Author
 WorldDownTown, WorldDownTown@gmail.com
