@@ -4,6 +4,7 @@
 [![Language](https://img.shields.io/badge/language-Swift%203.0.1-orange.svg)](https://swift.org)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods compatible](https://img.shields.io/cocoapods/v/CSS3ColorsSwift.svg?style=flat)](http://cocoadocs.org/docsets/CSS3ColorsSwift/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/matteocrippa/awesome-swift#colors)
 
 ## Overview
 `CSS3ColorsSwift` provides a UIColor extension with Web Color names.
