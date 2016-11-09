@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>IDECodeSnippetCompletionPrefix</key>
-    <string>lightgray</string>
+    <string>lightgraycss3</string>
     <key>IDECodeSnippetCompletionScopes</key>
     <array>
         <string>All</string>
@@ -15,7 +15,7 @@
     <key>IDECodeSnippetLanguage</key>
     <string>Xcode.SourceCodeLanguage.Swift</string>
     <key>IDECodeSnippetTitle</key>
-    <string>lightgray #D3D3D3</string>
+    <string>lightgraycss3 #D3D3D3</string>
     <key>IDECodeSnippetUserSnippet</key>
     <true/>
     <key>IDECodeSnippetVersion</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>IDECodeSnippetCompletionPrefix</key>
-    <string>brown</string>
+    <string>browncss3</string>
     <key>IDECodeSnippetCompletionScopes</key>
     <array>
         <string>All</string>
@@ -15,7 +15,7 @@
     <key>IDECodeSnippetLanguage</key>
     <string>Xcode.SourceCodeLanguage.Swift</string>
     <key>IDECodeSnippetTitle</key>
-    <string>brown #A52A2A</string>
+    <string>browncss3 #A52A2A</string>
     <key>IDECodeSnippetUserSnippet</key>
     <true/>
     <key>IDECodeSnippetVersion</key>
