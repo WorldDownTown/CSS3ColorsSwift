@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CSS3ColorsSwift'
-  s.version          = '1.1.2'
+  s.version          = '1.1.3'
   s.summary          = 'A UIColor extension for Web Color.'
   s.description      = <<-DESC
                        CSS3ColorsSwift provides a UIColor extension with Web Color names.

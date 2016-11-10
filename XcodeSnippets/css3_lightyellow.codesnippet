@@ -9,7 +9,7 @@
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 1.0000000000, green: 1.0000000000, blue: 0.8784313725, alpha: 1)</string>
+    <string>#colorLiteral(red: 1.0000000000, green: 1.0000000000, blue: 0.8784313725, alpha: 1) // #FFFFE0</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_lightyellow</string>
     <key>IDECodeSnippetLanguage</key>
