@@ -9,7 +9,7 @@
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 1.0000000000, green: 0.9372549020, blue: 0.8352941176, alpha: 1) // #FFEFD5</string>
+    <string>#colorLiteral(red: 1.0000000000, green: 0.9372549020, blue: 0.8352941176, alpha: 1) // papayawhip #FFEFD5</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_papayawhip</string>
     <key>IDECodeSnippetLanguage</key>

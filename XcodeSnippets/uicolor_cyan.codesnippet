@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
     <key>IDECodeSnippetCompletionPrefix</key>
-    <string>lightgray</string>
+    <string>cyan</string>
     <key>IDECodeSnippetCompletionScopes</key>
     <array>
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 0.6666666667, green: 0.6666666667, blue: 0.6666666667, alpha: 1) // #AAAAAA</string>
+    <string>#colorLiteral(red: 0.0000000000, green: 1.0000000000, blue: 1.0000000000, alpha: 1) // cyan #00FFFF</string>
     <key>IDECodeSnippetIdentifier</key>
-    <string>lightgray</string>
+    <string>css3_cyan</string>
     <key>IDECodeSnippetLanguage</key>
     <string>Xcode.SourceCodeLanguage.Swift</string>
     <key>IDECodeSnippetTitle</key>
-    <string>lightgray #AAAAAA</string>
+    <string>cyan #00FFFF</string>
     <key>IDECodeSnippetUserSnippet</key>
     <true/>
     <key>IDECodeSnippetVersion</key>

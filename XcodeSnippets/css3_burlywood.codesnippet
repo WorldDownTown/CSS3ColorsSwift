@@ -9,7 +9,7 @@
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 0.8705882353, green: 0.7215686275, blue: 0.5294117647, alpha: 1) // #DEB887</string>
+    <string>#colorLiteral(red: 0.8705882353, green: 0.7215686275, blue: 0.5294117647, alpha: 1) // burlywood #DEB887</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_burlywood</string>
     <key>IDECodeSnippetLanguage</key>

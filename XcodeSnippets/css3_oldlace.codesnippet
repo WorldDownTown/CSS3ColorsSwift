@@ -9,7 +9,7 @@
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 0.9921568627, green: 0.9607843137, blue: 0.9019607843, alpha: 1) // #FDF5E6</string>
+    <string>#colorLiteral(red: 0.9921568627, green: 0.9607843137, blue: 0.9019607843, alpha: 1) // oldlace #FDF5E6</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_oldlace</string>
     <key>IDECodeSnippetLanguage</key>

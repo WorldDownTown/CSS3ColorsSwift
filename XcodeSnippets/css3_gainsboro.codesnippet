@@ -9,7 +9,7 @@
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 0.8627450980, green: 0.8627450980, blue: 0.8627450980, alpha: 1) // #DCDCDC</string>
+    <string>#colorLiteral(red: 0.8627450980, green: 0.8627450980, blue: 0.8627450980, alpha: 1) // gainsboro #DCDCDC</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_gainsboro</string>
     <key>IDECodeSnippetLanguage</key>

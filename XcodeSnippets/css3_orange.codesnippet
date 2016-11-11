@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
     <key>IDECodeSnippetCompletionPrefix</key>
-    <string>orangecss3</string>
+    <string>orange_css3</string>
     <key>IDECodeSnippetCompletionScopes</key>
     <array>
         <string>All</string>
     </array>
     <key>IDECodeSnippetContents</key>
-    <string>#colorLiteral(red: 1, green: 0.6470588235, blue: 0, alpha: 1) // #FFA500</string>
+    <string>#colorLiteral(red: 1, green: 0.6470588235, blue: 0, alpha: 1) // orange_css3 #FFA500</string>
     <key>IDECodeSnippetIdentifier</key>
     <string>css3_orange</string>
     <key>IDECodeSnippetLanguage</key>
     <string>Xcode.SourceCodeLanguage.Swift</string>
     <key>IDECodeSnippetTitle</key>
-    <string>orangecss3 #FFA500</string>
+    <string>orange_css3 #FFA500</string>
     <key>IDECodeSnippetUserSnippet</key>
     <true/>
     <key>IDECodeSnippetVersion</key>
