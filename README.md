@@ -207,6 +207,12 @@ $ git clone https://github.com/WorldDownTown/CSS3ColorsSwift.git && cp CSS3Color
 $ git clone https://github.com/WorldDownTown/CSS3ColorsSwift.git; and cp CSS3ColorsSwift/XcodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/
 ```
 
+### Uninstallation
+
+```shd
+$ rm ~/Library/Developer/Xcode/UserData/CodeSnippets/CSS3ColorsSwift*.codesnippet
+```
+
 ## Author
 WorldDownTown, WorldDownTown@gmail.com
 
